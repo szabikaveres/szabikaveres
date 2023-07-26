@@ -1,4 +1,5 @@
-                                                                                                                          ### Hi 👋, I'm Szabika Veres
+Hi 👋, I'm Szabika Veres, 
+                         🔗 Blockchain Developer - Crypto enthusiast
 
 - 🔭 I’m currently working on a Trading Bot 🤖...
 - 🌱 I’m currently learning Solidity and React.JS...
